@@ -1,6 +1,8 @@
 # Дипломная работа по профессии «Frontend-разработчик»
 
-## Ссылка на gitHub Pages 
+### Ссылка на gitHub Pages - https://deadman11.github.io/shfe-diplom/
+
+
 
 ### Стек:
 
