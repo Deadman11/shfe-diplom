@@ -10,7 +10,7 @@
 - ESlint
 - React + Vite
 
-# Логин и пароль - shfe-diplom@netology.ru , shfe-diplom
+### Логин и пароль - shfe-diplom@netology.ru , shfe-diplom
 
 
 ### Цели дипломной работы
